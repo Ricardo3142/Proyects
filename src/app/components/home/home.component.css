@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    height: clac(100vh - 70px);
+}
+
+.chat-list{
+    width: 40%;
+    margin: 16px;
+    background: whitesmoke;
+    border-radius: 16px;
+}
